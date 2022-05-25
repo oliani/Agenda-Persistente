@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1507079399 source:c:\users\oliani\documents\agenda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"Agenda.h"
+
+1507083976 c:\users\oliani\documents\agenda\agenda.h
+	<string.h>
+
+1507558677 source:c:\users\6316476\downloads\agenda-master\main.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+
+1507556239 c:\users\6316476\downloads\agenda-master\agenda.h
+	<string.h>
+
+1507594468 source:c:\users\jlwei\desktop\agenda-master_allegro\agenda-master\main.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"Agenda.h"
+	<string.h>
+	<stdbool.h>
+
+1507588593 c:\users\jlwei\desktop\agenda-master_allegro\agenda-master\agenda.h
+	<string.h>
+
